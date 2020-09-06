@@ -53,3 +53,4 @@
 - implement live data with web sockets;
 - build charts for each stock and update chart;
   - you can use any js library for charts. (Ex: [ChartJS](https://www.chartjs.org/) or [D3](https://d3js.org/))
+- create stock detail page;
